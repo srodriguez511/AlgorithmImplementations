@@ -1,0 +1,7 @@
+F:\GitHub\AlgorithmImplementations\Heaps.Tests\bin\Debug\Heaps.Tests.dll
+F:\GitHub\AlgorithmImplementations\Heaps.Tests\bin\Debug\Heaps.Tests.pdb
+F:\GitHub\AlgorithmImplementations\Heaps.Tests\bin\Debug\Heaps.dll
+F:\GitHub\AlgorithmImplementations\Heaps.Tests\bin\Debug\Heaps.pdb
+F:\GitHub\AlgorithmImplementations\Heaps.Tests\obj\Debug\Heaps.Tests.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\Heaps.Tests\obj\Debug\Heaps.Tests.dll
+F:\GitHub\AlgorithmImplementations\Heaps.Tests\obj\Debug\Heaps.Tests.pdb

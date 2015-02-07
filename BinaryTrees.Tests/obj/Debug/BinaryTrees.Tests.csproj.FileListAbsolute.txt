@@ -1,0 +1,7 @@
+F:\GitHub\AlgorithmImplementations\BinaryTrees.Tests\bin\Debug\BinaryTrees.Tests.dll
+F:\GitHub\AlgorithmImplementations\BinaryTrees.Tests\bin\Debug\BinaryTrees.Tests.pdb
+F:\GitHub\AlgorithmImplementations\BinaryTrees.Tests\bin\Debug\BinaryTrees.dll
+F:\GitHub\AlgorithmImplementations\BinaryTrees.Tests\bin\Debug\BinaryTrees.pdb
+F:\GitHub\AlgorithmImplementations\BinaryTrees.Tests\obj\Debug\BinaryTrees.Tests.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\BinaryTrees.Tests\obj\Debug\BinaryTrees.Tests.dll
+F:\GitHub\AlgorithmImplementations\BinaryTrees.Tests\obj\Debug\BinaryTrees.Tests.pdb

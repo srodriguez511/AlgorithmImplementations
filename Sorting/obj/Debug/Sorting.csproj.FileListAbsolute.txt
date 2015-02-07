@@ -1,0 +1,7 @@
+F:\GitHub\AlgorithmImplementations\Sorting\bin\Debug\Sorting.dll
+F:\GitHub\AlgorithmImplementations\Sorting\bin\Debug\Sorting.pdb
+F:\GitHub\AlgorithmImplementations\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\Sorting\obj\Debug\Sorting.dll
+F:\GitHub\AlgorithmImplementations\Sorting\obj\Debug\Sorting.pdb
+F:\GitHub\AlgorithmImplementations\Sorting\bin\Debug\Heaps.dll
+F:\GitHub\AlgorithmImplementations\Sorting\bin\Debug\Heaps.pdb

@@ -1,0 +1,7 @@
+F:\GitHub\AlgorithmImplementations\Arrays.Tests\bin\Debug\Arrays.Tests.dll
+F:\GitHub\AlgorithmImplementations\Arrays.Tests\bin\Debug\Arrays.Tests.pdb
+F:\GitHub\AlgorithmImplementations\Arrays.Tests\bin\Debug\Arrays.dll
+F:\GitHub\AlgorithmImplementations\Arrays.Tests\bin\Debug\Arrays.pdb
+F:\GitHub\AlgorithmImplementations\Arrays.Tests\obj\Debug\Arrays.Tests.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\Arrays.Tests\obj\Debug\Arrays.Tests.dll
+F:\GitHub\AlgorithmImplementations\Arrays.Tests\obj\Debug\Arrays.Tests.pdb

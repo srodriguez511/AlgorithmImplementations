@@ -1,0 +1,5 @@
+F:\GitHub\AlgorithmImplementations\BinaryTrees\bin\Debug\BinaryTrees.dll
+F:\GitHub\AlgorithmImplementations\BinaryTrees\bin\Debug\BinaryTrees.pdb
+F:\GitHub\AlgorithmImplementations\BinaryTrees\obj\Debug\BinaryTrees.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\BinaryTrees\obj\Debug\BinaryTrees.dll
+F:\GitHub\AlgorithmImplementations\BinaryTrees\obj\Debug\BinaryTrees.pdb

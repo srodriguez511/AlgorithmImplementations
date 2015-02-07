@@ -1,0 +1,5 @@
+F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\bin\Debug\AlgorithmImplementations.exe.config
+F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\bin\Debug\AlgorithmImplementations.exe
+F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\bin\Debug\AlgorithmImplementations.pdb
+F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\obj\Debug\AlgorithmImplementations.exe
+F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\obj\Debug\AlgorithmImplementations.pdb

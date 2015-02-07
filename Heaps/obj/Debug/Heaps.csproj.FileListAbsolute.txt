@@ -1,0 +1,5 @@
+F:\GitHub\AlgorithmImplementations\Heaps\bin\Debug\Heaps.dll
+F:\GitHub\AlgorithmImplementations\Heaps\bin\Debug\Heaps.pdb
+F:\GitHub\AlgorithmImplementations\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\Heaps\obj\Debug\Heaps.dll
+F:\GitHub\AlgorithmImplementations\Heaps\obj\Debug\Heaps.pdb

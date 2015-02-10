@@ -1,0 +1,7 @@
+F:\GitHub\AlgorithmImplementations\LinkedList.Tests\obj\Debug\LinkedList.Tests.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\LinkedList.Tests\bin\Debug\LinkedList.Tests.dll
+F:\GitHub\AlgorithmImplementations\LinkedList.Tests\bin\Debug\LinkedList.Tests.pdb
+F:\GitHub\AlgorithmImplementations\LinkedList.Tests\bin\Debug\LinkedList.dll
+F:\GitHub\AlgorithmImplementations\LinkedList.Tests\bin\Debug\LinkedList.pdb
+F:\GitHub\AlgorithmImplementations\LinkedList.Tests\obj\Debug\LinkedList.Tests.dll
+F:\GitHub\AlgorithmImplementations\LinkedList.Tests\obj\Debug\LinkedList.Tests.pdb

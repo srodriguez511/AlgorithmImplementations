@@ -42,6 +42,28 @@ namespace Heaps
             }
         }
 
+        public void Delete(int[] array, int position)
+        {
+            //Find the last "empty" position
+            var endPosition = array.Length - 1;
+            for(int i = array.Length -1; i > 0; i--)
+            {
+                if(array[i] == int.MinValue)
+                {
+                    endPosition = i - 1;
+                }
+                else
+                {
+                    break;
+                }
+            }
+
+            Swap(array, position, endPosition);
+            array[endPosition] = int.MinValue;
+
+            MaxHeapify(array, 0, endPosition);
+        }
+
         private void Swap(int [] array, int pos1, int pos2)
         {
             var temp = array[pos1];

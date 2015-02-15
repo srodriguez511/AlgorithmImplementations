@@ -6,7 +6,7 @@ using System.Collections.Generic;
 namespace BinaryTrees.Tests
 {
     [TestClass]
-    public class BinaryTree
+    public class BinaryTreeTest
     {
         [TestMethod]
         public void Test_PostOrder_TraversalIterative_Empty()

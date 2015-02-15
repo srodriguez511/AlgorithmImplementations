@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Strings;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,11 @@ namespace AlgorithmImplementations
     {
         static void Main(string[] args)
         {
+            var perms = AllPermutationsOfString.PrintPermutations("hey");
+            foreach (var perm in perms)
+            {
+                Console.WriteLine(perm);
+            }
         }
     }
 }

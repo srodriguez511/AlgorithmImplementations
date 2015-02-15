@@ -1,0 +1,5 @@
+F:\GitHub\AlgorithmImplementations\Strings\bin\Debug\Strings.dll
+F:\GitHub\AlgorithmImplementations\Strings\bin\Debug\Strings.pdb
+F:\GitHub\AlgorithmImplementations\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\Strings\obj\Debug\Strings.dll
+F:\GitHub\AlgorithmImplementations\Strings\obj\Debug\Strings.pdb

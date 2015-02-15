@@ -1,0 +1,7 @@
+F:\GitHub\AlgorithmImplementations\Strings.Tests\bin\Debug\Strings.Tests.dll
+F:\GitHub\AlgorithmImplementations\Strings.Tests\bin\Debug\Strings.Tests.pdb
+F:\GitHub\AlgorithmImplementations\Strings.Tests\bin\Debug\Strings.dll
+F:\GitHub\AlgorithmImplementations\Strings.Tests\bin\Debug\Strings.pdb
+F:\GitHub\AlgorithmImplementations\Strings.Tests\obj\Debug\Strings.Tests.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\Strings.Tests\obj\Debug\Strings.Tests.dll
+F:\GitHub\AlgorithmImplementations\Strings.Tests\obj\Debug\Strings.Tests.pdb

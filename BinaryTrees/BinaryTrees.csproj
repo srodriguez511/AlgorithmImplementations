@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BinaryTree.cs" />
+    <Compile Include="NextClosest.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="PrintAllItemsAtLevel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

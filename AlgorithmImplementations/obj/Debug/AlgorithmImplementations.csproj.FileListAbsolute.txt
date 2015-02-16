@@ -6,3 +6,5 @@ F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\obj\Debug\AlgorithmI
 F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\bin\Debug\Strings.dll
 F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\bin\Debug\Strings.pdb
 F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\obj\Debug\AlgorithmImplementations.csprojResolveAssemblyReference.cache
+F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\bin\Debug\Arrays.dll
+F:\GitHub\AlgorithmImplementations\AlgorithmImplementations\bin\Debug\Arrays.pdb

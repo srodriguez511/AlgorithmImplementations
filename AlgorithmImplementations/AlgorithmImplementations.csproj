@@ -48,6 +48,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Arrays\Arrays.csproj">
+      <Project>{a41dd4cc-4e87-4c8f-8cbc-c1599237415c}</Project>
+      <Name>Arrays</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Strings\Strings.csproj">
       <Project>{f2ff3b4d-aa85-46c5-97ee-ac3325744077}</Project>
       <Name>Strings</Name>

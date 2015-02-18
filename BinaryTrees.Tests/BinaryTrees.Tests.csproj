@@ -54,6 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PrintAllItemsAtLevelTest.cs" />
     <Compile Include="NextClosestTest.cs" />
+    <Compile Include="GetNextNodeTest.cs" />
     <Compile Include="VerifyBinarySearchTreeTest.cs" />
   </ItemGroup>
   <ItemGroup>
